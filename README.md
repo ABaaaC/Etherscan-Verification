@@ -1,5 +1,7 @@
 # EtherScan Verification and Radicle.xyz testing.
 
+#### Remark Radicle currently works only locally.
+
 Repo link: rad:z25HWdh94n4nNnbWEXCZbJNY549KZ
 
 ## How to use Radicle
